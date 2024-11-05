@@ -18,7 +18,6 @@
 
   <ItemGroup>
     <Folder Include="Data\" />
-    <Folder Include="ViewComponents\" />
   </ItemGroup>
 
 </Project>
