@@ -14,6 +14,15 @@ namespace E_Commerce
             builder.Services.AddDbContext<Hshop2023Context>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("HShop")));
 
+            // Add session
+            builder.Services.AddDistributedMemoryCache();
+            builder.Services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromSeconds(10);
+                options.Cookie.HttpOnly = true;
+                options.Cookie.IsEssential = true;
+            });
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -29,6 +38,7 @@ namespace E_Commerce
 
             app.UseRouting();
 
+            app.UseSession();
             app.UseAuthorization();
 
             app.MapControllerRoute(
