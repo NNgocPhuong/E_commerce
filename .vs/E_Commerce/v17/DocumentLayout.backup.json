@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "D:\\CodeProjectMini\\E_Commerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|d:\\codeprojectmini\\e_commerce\\e_commerce\\helpers\\myutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|solutionrelative:e_commerce\\helpers\\myutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|d:\\codeprojectmini\\e_commerce\\e_commerce\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|solutionrelative:e_commerce\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|d:\\codeprojectmini\\e_commerce\\e_commerce\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|solutionrelative:e_commerce\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|d:\\codeprojectmini\\e_commerce\\e_commerce\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|solutionrelative:e_commerce\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|d:\\codeprojectmini\\e_commerce\\e_commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|solutionrelative:e_commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|d:\\codeprojectmini\\e_commerce\\e_commerce\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|solutionrelative:e_commerce\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|d:\\codeprojectmini\\e_commerce\\e_commerce\\viewmodels\\chitiethanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|solutionrelative:e_commerce\\viewmodels\\chitiethanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|d:\\codeprojectmini\\e_commerce\\e_commerce\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|solutionrelative:e_commerce\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|d:\\codeprojectmini\\e_commerce\\e_commerce\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|solutionrelative:e_commerce\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|d:\\codeprojectmini\\e_commerce\\e_commerce\\wwwroot\\cart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|solutionrelative:e_commerce\\wwwroot\\cart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|d:\\codeprojectmini\\e_commerce\\e_commerce\\helpers\\dataencryptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|solutionrelative:e_commerce\\helpers\\dataencryptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|d:\\codeprojectmini\\e_commerce\\e_commerce\\helpers\\sessionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|solutionrelative:e_commerce\\helpers\\sessionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|d:\\codeprojectmini\\e_commerce\\e_commerce\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|solutionrelative:e_commerce\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|d:\\codeprojectmini\\e_commerce\\e_commerce\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|d:\\codeprojectmini\\e_commerce\\e_commerce\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|solutionrelative:e_commerce\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|d:\\codeprojectmini\\e_commerce\\e_commerce\\views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|solutionrelative:e_commerce\\views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|d:\\codeprojectmini\\e_commerce\\e_commerce\\viewmodels\\chitiethanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|solutionrelative:e_commerce\\viewmodels\\chitiethanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB2E44E2-1094-4303-B474-DD085B522D8E}|E_Commerce\\E_Commerce.csproj|d:\\codeprojectmini\\e_commerce\\e_commerce\\viewmodels\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,85 +94,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "cart.html",
-              "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\wwwroot\\cart.html",
-              "RelativeDocumentMoniker": "E_Commerce\\wwwroot\\cart.html",
-              "ToolTip": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\wwwroot\\cart.html",
-              "RelativeToolTip": "E_Commerce\\wwwroot\\cart.html",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAB4BAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-07T12:02:11.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "E_Commerce\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "E_Commerce\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAiwEIAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T11:44:45.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ProductItem.cshtml",
-              "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Views\\HangHoa\\ProductItem.cshtml",
-              "RelativeDocumentMoniker": "E_Commerce\\Views\\HangHoa\\ProductItem.cshtml",
-              "ToolTip": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Views\\HangHoa\\ProductItem.cshtml",
-              "RelativeToolTip": "E_Commerce\\Views\\HangHoa\\ProductItem.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T09:56:08.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "E_Commerce\\Controllers\\CartController.cs",
-              "ToolTip": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Controllers\\CartController.cs",
-              "RelativeToolTip": "E_Commerce\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAcwDwAAAAtAAAAAAAAAA==",
+              "Title": "DataEncryptionExtensions.cs",
+              "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Helpers\\DataEncryptionExtensions.cs",
+              "RelativeDocumentMoniker": "E_Commerce\\Helpers\\DataEncryptionExtensions.cs",
+              "ToolTip": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Helpers\\DataEncryptionExtensions.cs",
+              "RelativeToolTip": "E_Commerce\\Helpers\\DataEncryptionExtensions.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T09:52:51.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SessionExtentions.cs",
-              "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Helpers\\SessionExtentions.cs",
-              "RelativeDocumentMoniker": "E_Commerce\\Helpers\\SessionExtentions.cs",
-              "ToolTip": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Helpers\\SessionExtentions.cs",
-              "RelativeToolTip": "E_Commerce\\Helpers\\SessionExtentions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T09:48:08.58Z",
+              "WhenOpened": "2024-11-12T15:14:25.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MyUtil.cs",
+              "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Helpers\\MyUtil.cs",
+              "RelativeDocumentMoniker": "E_Commerce\\Helpers\\MyUtil.cs",
+              "ToolTip": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Helpers\\MyUtil.cs*",
+              "RelativeToolTip": "E_Commerce\\Helpers\\MyUtil.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:09:49.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Helpers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "E_Commerce\\Helpers\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Helpers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "E_Commerce\\Helpers\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:02:37.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "E_Commerce\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "E_Commerce\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T12:02:43.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "E_Commerce\\Views\\KhachHang\\DangKy.cshtml",
+              "ToolTip": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeToolTip": "E_Commerce\\Views\\KhachHang\\DangKy.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T11:27:28.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "E_Commerce\\Controllers\\KhachHangController.cs",
+              "ToolTip": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "E_Commerce\\Controllers\\KhachHangController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAC4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:25:36.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "E_Commerce\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "E_Commerce\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:15:34.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Program.cs",
               "RelativeDocumentMoniker": "E_Commerce\\Program.cs",
               "ToolTip": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Program.cs",
               "RelativeToolTip": "E_Commerce\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T09:43:53.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "CartItem.cs",
               "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\ViewModels\\CartItem.cs",
               "RelativeDocumentMoniker": "E_Commerce\\ViewModels\\CartItem.cs",
@@ -172,23 +206,25 @@
               "RelativeToolTip": "E_Commerce\\ViewModels\\CartItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T09:40:56.595Z"
+              "WhenOpened": "2024-11-07T09:40:56.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "_DanhSachHangHoa.cshtml",
               "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Views\\Shared\\_DanhSachHangHoa.cshtml",
               "RelativeDocumentMoniker": "E_Commerce\\Views\\Shared\\_DanhSachHangHoa.cshtml",
               "ToolTip": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Views\\Shared\\_DanhSachHangHoa.cshtml",
               "RelativeToolTip": "E_Commerce\\Views\\Shared\\_DanhSachHangHoa.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwBoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T07:58:16.726Z"
+              "WhenOpened": "2024-11-06T07:58:16.726Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "_TimKiemPanel.cshtml",
               "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Views\\Shared\\_TimKiemPanel.cshtml",
               "RelativeDocumentMoniker": "E_Commerce\\Views\\Shared\\_TimKiemPanel.cshtml",
@@ -196,11 +232,12 @@
               "RelativeToolTip": "E_Commerce\\Views\\Shared\\_TimKiemPanel.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T07:57:56.774Z"
+              "WhenOpened": "2024-11-06T07:57:56.774Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Default.cshtml",
               "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
               "RelativeDocumentMoniker": "E_Commerce\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
@@ -208,11 +245,12 @@
               "RelativeToolTip": "E_Commerce\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T07:48:09.535Z"
+              "WhenOpened": "2024-11-06T07:48:09.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "ChiTietHangHoaVM.cs",
               "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\ViewModels\\ChiTietHangHoaVM.cs",
               "RelativeDocumentMoniker": "E_Commerce\\ViewModels\\ChiTietHangHoaVM.cs",
@@ -225,20 +263,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Views\\HangHoa\\Detail.cshtml",
               "RelativeDocumentMoniker": "E_Commerce\\Views\\HangHoa\\Detail.cshtml",
               "ToolTip": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Views\\HangHoa\\Detail.cshtml",
               "RelativeToolTip": "E_Commerce\\Views\\HangHoa\\Detail.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAIBJwDQAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-06T06:32:40.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "HangHoaController.cs",
               "DocumentMoniker": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\Controllers\\HangHoaController.cs",
               "RelativeDocumentMoniker": "E_Commerce\\Controllers\\HangHoaController.cs",

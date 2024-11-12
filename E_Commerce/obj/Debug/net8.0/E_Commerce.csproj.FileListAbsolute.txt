@@ -257,3 +257,5 @@ D:\CodeProjectMini\E_Commerce\E_Commerce\bin\Debug\net8.0\runtimes\win\lib\net7.
 D:\CodeProjectMini\E_Commerce\E_Commerce\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\CodeProjectMini\E_Commerce\E_Commerce\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\CodeProjectMini\E_Commerce\E_Commerce\obj\Debug\net8.0\E_Commerce.sourcelink.json
+D:\CodeProjectMini\E_Commerce\E_Commerce\bin\Debug\net8.0\AutoMapper.dll
+D:\CodeProjectMini\E_Commerce\E_Commerce\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

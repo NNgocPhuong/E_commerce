@@ -1,0 +1,79 @@
+﻿@model E_Commerce.ViewModels.RegisterVM
+@{
+    ViewData["Title"] = "DangKy";
+}
+
+<div class="container-fluid py-5">
+    <div class="container py-5">
+        <h1 class="mb-4">Đăng ký</h1>
+        <form asp-controller="KhachHang" asp-action="DangKy" method="post" onsubmit="return validatePassword()" enctype="multipart/form-data">
+            <div class="form-group">
+                <label asp-for="@Model.MaKh"></label>
+                <input type="text" class="form-control" asp-for="@Model.MaKh" value="@Model.HoTen">
+                <span asp-validation-for="@Model.MaKh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email"></label>
+                <input type="email" class="form-control" asp-for="Email" value="@Model.Email">
+                <span asp-validation-for="@Model.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.MatKhau"></label>
+                <input type="password" class="form-control" id="MatKhau" asp-for="@Model.MatKhau">
+                <span asp-validation-for="@Model.MatKhau" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="ConfirmMatKhau">Nhập lại mật khẩu</label>
+                <input type="password" class="form-control" id="ConfirmMatKhau" name="ConfirmMatKhau">
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.HoTen"></label>
+                <input type="text" class="form-control" asp-for="@Model.HoTen" value="@Model.HoTen">
+                <span asp-validation-for="@Model.HoTen" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.DienThoai"></label>
+                <input type="text" class="form-control" id="SoDienThoai" asp-for="@Model.DienThoai" value="@Model.DienThoai">
+                <span asp-validation-for="@Model.DienThoai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.DiaChi"></label>
+                <input type="text" class="form-control" id="DiaChi" asp-for="@Model.DiaChi" value="@Model.DiaChi">
+                <span asp-validation-for="@Model.DiaChi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.GioiTinh">Giới tính</label>
+                <select class="form-control" asp-for="@Model.GioiTinh">
+                    <option value="true">Nam</option>
+                    <option value="false">Nữ</option>
+                </select>
+                <span asp-validation-for="@Model.GioiTinh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.NgaySinh">Ngày sinh</label>
+                <input type="date" class="form-control" asp-for="@Model.NgaySinh">
+                <span asp-validation-for="@Model.NgaySinh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Hinh">Hình ảnh</label>
+                <input type="file" class="form-control" asp-for="@Model.Hinh">
+            </div>
+            <div class="alert alert-danger" id="passwordMismatchAlert" style="display:none;">
+                Mật khẩu nhập lại không trùng khớp.
+            </div>
+            <button type="submit" class="btn btn-primary">Đăng ký</button>
+        </form>
+    </div>
+</div>
+
+<script>
+    function validatePassword() {
+        var password = document.getElementById("MatKhau").value;
+        var confirmPassword = document.getElementById("ConfirmMatKhau").value;
+        if (password !== confirmPassword) {
+            document.getElementById("passwordMismatchAlert").style.display = "block";
+            return false;
+        }
+        return true;
+    }
+</script>

@@ -1,4 +1,5 @@
 using E_Commerce.Data;
+using E_Commerce.Helpers;
 using Microsoft.EntityFrameworkCore;
 
 namespace E_Commerce
@@ -22,6 +23,7 @@ namespace E_Commerce
                 options.Cookie.HttpOnly = true;
                 options.Cookie.IsEssential = true;
             });
+            builder.Services.AddAutoMapper(typeof(AutoMapperProfile));// Add AutoMapper
 
             var app = builder.Build();
 
