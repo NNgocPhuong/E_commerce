@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WXhvAdNH/S11ndIEuyILND0wm1pSsNG4nNVS3A4ffpI=",
+  "Hash": "9Ao0UCAI+HJQP1pg/VfZYj5p3WjBptYBGjGkZ9RbHVg=",
   "Source": "E_Commerce",
   "BasePath": "_content/E_Commerce",
   "Mode": "Default",
@@ -6570,6 +6570,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\wwwroot\\KhachHangNew\\Lai1.png",
+      "SourceId": "E_Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\wwwroot\\",
+      "BasePath": "_content/E_Commerce",
+      "RelativePath": "KhachHangNew/Lai1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\KhachHangNew\\Lai1.png"
     },
     {
       "Identity": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

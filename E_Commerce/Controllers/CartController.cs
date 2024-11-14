@@ -47,7 +47,7 @@ namespace E_Commerce.Controllers
                 item.SoLuong += quantity;
             }
             HttpContext.Session.Set(MySetting.CARTKEY, gioHang);
-            return RedirectToAction("Index");
+            return RedirectToAction("Index", "HangHoa");
         }
         public IActionResult Remove(int id) 
         {

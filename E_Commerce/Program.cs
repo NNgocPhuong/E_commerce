@@ -1,5 +1,6 @@
 using E_Commerce.Data;
 using E_Commerce.Helpers;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 
 namespace E_Commerce
@@ -24,6 +25,14 @@ namespace E_Commerce
                 options.Cookie.IsEssential = true;
             });
             builder.Services.AddAutoMapper(typeof(AutoMapperProfile));// Add AutoMapper
+
+            //add authentication
+            builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+                .AddCookie(options =>
+                {
+                    options.LoginPath = "/KhachHang/DangNhap";
+                    options.AccessDeniedPath = "/AccessDenied";
+                });
 
             var app = builder.Build();
 

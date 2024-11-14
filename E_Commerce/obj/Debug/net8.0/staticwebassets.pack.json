@@ -1213,6 +1213,10 @@
       "PackagePath": "staticwebassets\\Hinh\\icons\\vit.gif"
     },
     {
+      "Id": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\wwwroot\\KhachHangNew\\Lai1.png",
+      "PackagePath": "staticwebassets\\KhachHangNew\\Lai1.png"
+    },
+    {
       "Id": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\wwwroot\\cart.html",
       "PackagePath": "staticwebassets\\cart.html"
     },

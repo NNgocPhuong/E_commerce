@@ -16,6 +16,7 @@ namespace E_Commerce.Controllers
             _db = context;
             _mapper = mapper;
         }
+        #region DangKy
         [HttpGet]
         public IActionResult DangKy()
         {
@@ -52,5 +53,16 @@ namespace E_Commerce.Controllers
             }
             return View(model);
         }
+        #endregion
+
+        #region DangNhap
+        [HttpGet]
+        public IActionResult DangNhap(string? returnUrl)
+        {
+            var model = new LoginVM();
+            ViewBag.ReturnUrl = returnUrl;
+            return View(model);
+        }
+        #endregion
     }
 }
