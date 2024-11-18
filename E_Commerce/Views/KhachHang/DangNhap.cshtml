@@ -6,7 +6,7 @@
 <div class="container-fluid py-5">
     <div class="container py-5">
         <h1 class="mb-4">Đăng nhập</h1>
-        <form asp-controller="KhachHang" asp-action="DangNhap" method="post">
+        <form asp-controller="KhachHang" asp-action="DangNhap" asp-route-returnurl="@ViewBag.ReturnUrl" method="post">
             <div class="form-group">
                 <label asp-for="@Model.Username"></label>
                 <input type="text" class="form-control" asp-for="@Model.Username" value="@Model.Username">
@@ -21,6 +21,7 @@
             
             <div class="text-center mt-4">
                 <button type="submit" class="btn btn-primary btn-lg">Đăng nhập</button>
+                <button asp-controller="KhachHang" asp-action="QuenMatKhau" class="btn btn-primary btn-lg">Quên mật khẩu</button>
             </div>
         </form>
     </div>

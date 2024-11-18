@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E_Commerce.bundle.scp.css",
-      "PackagePath": "staticwebassets\\E_Commerce.bundle.scp.css"
+      "PackagePath": "staticwebassets\\E_Commerce.1eu8unvcmt.bundle.scp.css"
     },
     {
       "Id": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\wwwroot\\404.html",
@@ -1217,6 +1217,10 @@
       "PackagePath": "staticwebassets\\KhachHangNew\\Lai1.png"
     },
     {
+      "Id": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\wwwroot\\KhachHangNew\\QuangCao2.png",
+      "PackagePath": "staticwebassets\\KhachHangNew\\QuangCao2.png"
+    },
+    {
       "Id": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\wwwroot\\cart.html",
       "PackagePath": "staticwebassets\\cart.html"
     },
@@ -2031,6 +2035,10 @@
     {
       "Id": "D:\\CodeProjectMini\\E_Commerce\\E_Commerce\\wwwroot\\testimonial.html",
       "PackagePath": "staticwebassets\\testimonial.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E_Commerce.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E_Commerce.Microsoft.AspNetCore.StaticWebAssets.props",
